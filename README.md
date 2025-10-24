@@ -2,7 +2,7 @@
 
 Mis primeros *pasos* en **Markdown**, que es un formato de ***archivos*** de texto 
 
-A continuacioin  una ___lista___;
+A continuacioin  una ___lista___:
 
 * Item 1
 * Item 2
