@@ -1,15 +1,14 @@
-# RepoEjemplo
 # Aprendiendo Markdown
 
-Mis Primereso *pasos* en  M**wMarkdown* que es un formato de marcado de ***archivos de texto***.
+Mis primeros *pasos* en **Markdown**, que es un formato de ***archivos*** de texto 
 
 A continuacioin  una ___lista___;
 
-*ITEM 1
-*item 2
-*Item2.1
- *item 2.2
- *item 3
+* ITEM 1
+* Item 2
+* I tem2.1
+ * item 2.2
+ * item 3
 
 A continuación una ___tabla__:
 
